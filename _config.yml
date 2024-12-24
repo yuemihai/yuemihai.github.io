@@ -1,7 +1,7 @@
 name: "Yuemihai's blog"
 description: "月弥海的个人博客"
 
-avatar: ![](https://yuemihai.github.io/images/wechat.jpg)
+avatar: https://yuemihai.github.io/images/wechat.jpg
 favicon: https://yuemihai.github.io/images/favicon.ico
 
 navigation:
